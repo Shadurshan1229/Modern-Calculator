@@ -1,16 +1,7 @@
-# modern_calculator
+# Modern Calculator
+Modern Calculator is just like other calculator but with a cool Neumophism UI provides better user experience with light & Dark theme.
+# What I Learned
+* Basics of the Flutter Environment.
+* Basics of the Dart Language.
+* Use of the both Stateful Widgets & Stateless Widgets.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
